@@ -1,7 +1,7 @@
 <!-- Profile README for Mounikesh Goud -->
 
 <h1 align="center">Hi there 👋, I'm Mounikesh Goud</h1>
-<h3 align="center">AI/ML Developer | Automation Tester | Embedded Systems Enthusiast</h3>
+<h3 align="center">AI/ML Developer | LLMops | GenAI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mounikesh-goud-4826b5214" target="_blank">
