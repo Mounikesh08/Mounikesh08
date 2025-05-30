@@ -54,7 +54,6 @@
 - 🥇 **First Prize:** Honored with a Prize and a medal for Robotic project.
 - 🏅 **AWS Machine Learning Speciality**
 - 🏅 **Generative AI with LLMs (Deeplearning.ai)**
-- 🥇 **First Prize:** Awarded first prize three times in university-level dance competitions.
 ---
 
 ## 📫 Let's Connect!
