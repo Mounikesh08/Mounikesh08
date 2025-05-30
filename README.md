@@ -60,8 +60,7 @@
 
 ## 🏅 Achievements
 
-- 🥇 **First Prize:** National Level Robotics Championship
-- 🥈 **Runner Up:** Smart India Hackathon (SIH)
+- 🥇 **First Prize:** Honored with a Prize and a medal for Robotic project.
 - 🏅 **AWS Machine Learning Speciality**
 - 🏅 **Generative AI with LLMs (Deeplearning.ai)**
 
