@@ -1,72 +1,82 @@
-<!-- Profile README for Mounikesh Goud -->
+<!-- Modern GitHub Profile README for Mounikesh Goud -->
 
-<h1 align="center">Hi there 👋, I'm Mounikesh Goud</h1>
-<h3 align="center">AI/ML Developer | LLMops | GenAI Enthusiast</h3>
-
+<!-- Banner -->
 <p align="center">
-  <a href="https://linkedin.com/in/mounikesh-goud-4826b5214" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3D76F6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mounikesh+Goud!;AI+%7C+ML+Developer+%7C+Automation+Specialist;Passionate+about+Intelligent+Solutions" alt="Typing SVG" />
+</p>
+
+<!-- Social Badges -->
+<p align="center">
   <a href="mailto:mounikeshofficial001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mounikesh-goud-4826b5214" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mounikesh-goud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 **MS in Computer Science** (Governors State University, 2025)
-- 🧑‍💻 **Associate Software Engineer** (Nagarro) — Automation, AI/ML, and Embedded Systems
-- 🏆 AWS Certified | Generative AI Certified (Deeplearning.ai)
-- 🌱 Currently learning: Generative AI, Cloud ML, and Advanced Robotics
+- 💼 **Associate Software Engineer** @ Nagarro
+- 🤖 **Specialties:** Automation Testing, AI/ML, Embedded Systems
+- 🏆 **AWS Certified** | **Generative AI Certified (Deeplearning.ai)**
+- 🚀 Always exploring **GenAI, Cloud ML,** and **Robotics**
 
 ---
 
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mounikesh-goud&show_icons=true&theme=github_dark" alt="Mounikesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mounikesh-goud&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,aws,azure,selenium,tensorflow,pytorch,git,linux" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## 📊 GitHub Stats
 
-- **Flight Ticket Price Prediction** — ML model to forecast flight prices using Azure  
-  [🔗 View Project](#)
-- **GenAI Restaurant Onboarding Assistant** — Automates menu onboarding with AI  
-  [🔗 View Project](#)
-- **Gesture-Based Wireless Robot** — Non-contact robot controlled by hand gestures  
-  [🔗 View Project](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mounikesh-goud&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mounikesh-goud&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounikesh-goud&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+</p>
 
 ---
 
-### 📫 How to reach me
+## 🌟 Featured Projects
 
-- Email: mounikeshofficial001@gmail.com
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Flight Ticket Price Prediction](#) | ML model for flight price forecasting using Azure | Python, scikit-learn, Azure |
+| [GenAI Restaurant Onboarding Assistant](#) | Automates menu onboarding with generative AI | Python, LangChain, OpenAI |
+| [Gesture-Based Wireless Robot](#) | Non-contact robot controlled by hand gestures | Arduino, C++ |
+
+---
+
+## 🏅 Achievements
+
+- 🥇 **First Prize:** National Level Robotics Championship
+- 🥈 **Runner Up:** Smart India Hackathon (SIH)
+- 🏅 **AWS Machine Learning Speciality**
+- 🏅 **Generative AI with LLMs (Deeplearning.ai)**
+
+---
+
+## 📫 Let's Connect!
+
+- Email: [mounikeshofficial001@gmail.com](mailto:mounikeshofficial001@gmail.com)
 - [LinkedIn](https://linkedin.com/in/mounikesh-goud-4826b5214)
 
 ---
 
-<!-- Optional: Fun GIF or Quote -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Coding"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="AI Coding"/>
 </p>
 
-<p align="center"><i>“Building intelligent solutions, one project at a time.”</i></p>
+<p align="center"><b>“Building intelligent solutions, one project at a time.”</b></p>
+
