@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,aws,azure,selenium,tensorflow,pytorch,Langchain,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,aws,azure,selenium,tensorflow,pytorch,git" />
 </p>
 
 ---
