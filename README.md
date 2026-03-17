@@ -22,11 +22,21 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **MS in Computer Science** (Governors State University, 2025)
-- 💼 **AI engineer** @ Unilever
-- 🤖 **Specialties:** Automation Testing, AI/ML, Embedded Systems
-- 🏆 **AWS Certified** | **Generative AI Certified (Deeplearning.ai)**
-- 🚀 Always exploring **GenAI, Cloud ML,** and **Robotics**
+🎓 MS in Computer Science (Governors State University, 2025)
+
+💼 AI Engineer @ Unilever (2020–2023)
+
+🤖 Specialties: Applied AI, Machine Learning, RAG Systems, AI Agents
+
+🧠 Core Skills: Python, LLMs, FastAPI, LangChain, Vector Databases
+
+☁️ Cloud & Infra: AWS, Docker, Kubernetes
+
+🏆 Certified: Generative AI with LLMs (DeepLearning.AI)
+
+🚀 Currently building AI Agents, RAG pipelines, and production ML systems
+
+📈 Passionate about turning real-world problems into scalable AI solutions
 
 ---
 
