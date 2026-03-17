@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **MS in Computer Science** (Governors State University, 2025)
-- 💼 **Associate Software Engineer** @ Nagarro
+- 💼 **AI engineer** @ Unilever
 - 🤖 **Specialties:** Automation Testing, AI/ML, Embedded Systems
 - 🏆 **AWS Certified** | **Generative AI Certified (Deeplearning.ai)**
 - 🚀 Always exploring **GenAI, Cloud ML,** and **Robotics**
