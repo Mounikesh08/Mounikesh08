@@ -163,7 +163,7 @@ Stack: LangGraph · LangChain · FastAPI
 </td>
 <td width="50%">
 
-### 🏥 [MediGPT — Clinical AI](https://github.com/mounikesh-goud)
+### 🏥 [MediGPT — Clinical AI](https://github.com/Mounikesh08/MediGPT--AI-powered-healthcare-assistant)
 **Healthcare RAG System with Responsible AI**
 
 Domain-specific RAG system answering medical queries from unstructured clinical documents with HIPAA-conscious PHI handling.
