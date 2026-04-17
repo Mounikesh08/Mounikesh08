@@ -144,7 +144,7 @@ Production ML lifecycle with **MLflow**, **Databricks**, **Delta Lake**, **Unity
 <tr>
 <td width="50%">
 
-### 🤖 [AI Agent Copilot](https://github.com/mounikesh-goud)
+### 🤖 [AI Agent Copilot](https://github.com/Mounikesh08/Ai-agent-copilot-multi-agent-rag)
 **Production-Ready Multi-RAG Agentic System**
 
 A live multi-agent copilot powering document-based queries and workflow automation across enterprise knowledge bases.
